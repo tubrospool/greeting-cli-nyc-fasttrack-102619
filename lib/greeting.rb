@@ -5,4 +5,4 @@ end
 
 
 greeting('sally')
-greeting('bob       ' )
+greeting('bob')

@@ -1,2 +1,3 @@
-def greeting "Hello #{name}. It's nice to meet you."
+def greeting 
+  puts "Hello #{name}. It's nice to meet you."
   
